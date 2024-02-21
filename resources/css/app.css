@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+footer{
+    width: 80%;
+    margin-left: 10%;
+}
+header{
+    width: 80%;
+    margin-left: 10%;
+}
+h1{
+    margin-left: 10%;
+}
